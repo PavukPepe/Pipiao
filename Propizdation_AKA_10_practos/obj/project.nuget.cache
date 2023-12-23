@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MwuISBDpcvWGsR2JQQBTLmC8qn5cHSOPIfCdAmNgNRQEPaJ5aJrgznIigh1Jc/4ESAm3IYWsmCuUL1Hp2fgRAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serge\\source\\repos\\Propizdation_AKA_10_practos\\Propizdation_AKA_10_practos\\Propizdation_AKA_10_practos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serge\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
